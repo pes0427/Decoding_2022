@@ -67,6 +67,16 @@ ul {
     cursor: pointer;
 }
 
+.done{
+    width: 50px;
+    height: 25px;
+    font-size: 0.8em;
+    color: white;
+    margin-right: 15px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
 li{
     border-bottom: 1px solid lightgray;
     padding-bottom: 15px;
